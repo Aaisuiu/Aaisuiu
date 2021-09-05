@@ -1,8 +1,5 @@
 ### Hi Bro! 👋
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
-</p>
+![12NC~4X%DHRU(A~NEAOR H9](https://user-images.githubusercontent.com/65217163/132127795-9d0773a1-cb79-4f23-90ec-1d7e6ab2dd86.gif)
 
 - 🔭 I’m currently working on finance as an Accounting 
 - 🌱 I’m currently learning PHP,NodeJS  
