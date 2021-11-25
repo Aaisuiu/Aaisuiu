@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning PHP,NodeJS  
 - 🤔 I’m looking for help about how to becode a better coder 
 - 🤹‍♀️ Like Apex,hunt shutdown,BF1,5
-- 🥰 My lover: ErikaRaise🐋
-- 🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋JUST DO IT!🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋🐋
+- 🥰 My lover: 
 
 <p align="center"> 
   Visitor count<br>
